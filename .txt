@@ -1,0 +1,7 @@
+<div class="fitem">Microsoft</div> 
+<div class="fitem">365 </div>
+<div class="fitem">Office </div>
+<div class="fitem">Windows </div>
+<div class="fitem">Surface </div>
+<div class="fitem">Xbox </div>
+<div class="fitem">Support</div>
